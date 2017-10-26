@@ -1,15 +1,8 @@
 # Beta.beehive.ngo
 
-Website files for [Beta.beehive.ngo](http://beta.beehive.ngo)
+Build files for Beehive's beta IATI-data-driven humanitarian crowdfunding platform: [Beta.beehive.ngo](http://beta.beehive.ngo)
 
 ## Notes
 
-- Beta.beehive.ngo is currently being used to prototype Beehive.ngo, develop and test toolbox modules and data handling scripts
-- Stack: Python, Flask, JS, HTML
-
-##Auxiliary Resources
-
-- [Design Overview](https://github.com/BeehiveNGO/Auxiliary/blob/master/design_specifications/beta.beehive_design_overview.md)
-- [Wiki Page](https://github.com/BeehiveNGO/Beehive/wiki/Beta.beehive.ngo)
-- [Milestones](https://github.com/BeehiveNGO/Beta.beehive.ngo/milestones), [Issues](https://github.com/BeehiveNGO/Beta.beehive.ngo/issues), [Project Kanban Board](https://github.com/BeehiveNGO/Beta.beehive.ngo/projects/1)
-- Project Coordinator: [Brent Phillips](http://github.com/brentophillips)
+* We're deleting the app_engine folder soon and building Beta.Beehive using AWS components
+* Stack: Python, Flask, JS, HTML
